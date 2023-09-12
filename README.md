@@ -1,4 +1,4 @@
-### Hi there, I'm Hristo 👋
+### Hi there, I am Hristo 👋
 - 🌱 I'm currently learning C#, JavaScript and Java
 - 💻 I'm currenctly working as a DevOps
 
